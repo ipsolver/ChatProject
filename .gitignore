@@ -1,0 +1,62 @@
+# Laravel & PHP
+/vendor/
+.env
+.phpunit.result.cache
+/storage/*.key
+/storage/*.log
+/storage/*.txt
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+
+# IDE та інше
+.idea/
+.vscode/
+*.log
+*.swp
+*.swo
+*.DS_Store
+*.bak
+
+# Node
+/node_modules/
+package-lock.json
+
+# Lang
+lang/
+
+# Config
+/config/*
+!/config/app.php
+!/config/auth.php
+!/config/broadcasting.php
+!/config/cache.php
+!/config/cors.php
+!/config/database.php
+!/config/filesystems.php
+!/config/hashing.php
+!/config/logging.php
+!/config/mail.php
+!/config/queue.php
+!/config/services.php
+!/config/session.php
+!/config/view.php
+
+/config/messenger-bots.php
+/config/messenger-faker.php
+/config/messenger-ui.php
+/config/messenger.php
+
+# Bootstrap cache
+bootstrap/cache/*.php
+
+database/migrations/
+database/seeders/
+
+# Інше
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
