@@ -7,6 +7,20 @@
 
 ![](https://github.com/ipsolver/ChatProject/blob/main/screenshots/screenshot.jpg)
 
+![](https://github.com/ipsolver/ChatProject/blob/main/screenshots/1.jpg)
+
+![](https://github.com/ipsolver/ChatProject/blob/main/screenshots/2.jpg)
+
+![](https://github.com/ipsolver/ChatProject/blob/main/screenshots/3.jpg)
+
+![](https://github.com/ipsolver/ChatProject/blob/main/screenshots/4.jpg)
+
+![](https://github.com/ipsolver/ChatProject/blob/main/screenshots/5.jpg)
+
+![](https://github.com/ipsolver/ChatProject/blob/main/screenshots/6.jpg)
+
+![](https://github.com/ipsolver/ChatProject/blob/main/screenshots/7.jpg)
+
 ## Що потрібно для запуску
 
 ### Встановлені інструменти:
